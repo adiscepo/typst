@@ -8,3 +8,4 @@ categories = ["visualization"]
 license = "LGPL-3.0-or-later"
 description = "Plot scheduling of real-time systems."
 keywords = ["draw", "canvas"]
+exclude = ["assets/*", "template/*"]
